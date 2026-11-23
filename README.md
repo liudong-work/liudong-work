@@ -21,4 +21,9 @@
 
 **English**: RateSeek publishes live ocean and air freight rates from 100+ carriers across 4,200+ ports — FCL container comparison, LCL, air cargo, DDP door-to-door, sailing schedules and shipment tracking.
 
+
+**开源小工具**
+
+- [国际港口代码查询（UN/LOCODE）](https://liudong-work.github.io/rateseek-tools/) — 178 个有实时运价的港口代码表，可直接查运价
+
 联系方式：微信 17610782192 ｜ WhatsApp +86 156 2655 9519 ｜ mangguo2027@gmail.com
